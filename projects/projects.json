@@ -22,7 +22,7 @@
   {
     "name": "Glassmorphic_Registration_Form",
     "desc": "A beautiful glassmorphic registration form UI using HTML and CSS.",
-    "image": "glassform",
+    "image": "Glassmorphic_Registration_Form",
     "category": "frontend",
     "links": {
       "view": "#",
@@ -42,7 +42,7 @@
   {
     "name": "login-page",
     "desc": "A simple login page with modern design.",
-    "image": "login",
+    "image": "login-page",
     "category": "frontend",
     "links": {
       "view": "#",
@@ -52,7 +52,7 @@
   {
     "name": "miaow-trinity",
     "desc": "AI tool for detecting and blocking harmful content on social media.",
-    "image": "miaow",
+    "image": "miaow-trinity",
     "category": "frontend",
     "links": {
       "view": "#",
@@ -62,7 +62,7 @@
   {
     "name": "website-SaiElite",
     "desc": "HTML based website for SaiElite brand.",
-    "image": "saielite",
+    "image": "website-SaiElite",
     "category": "business",
     "links": {
       "view": "#",
@@ -72,8 +72,8 @@
   {
     "name": "Animation-login-page",
     "desc": "Animated login page for practice and design showcase.",
-    "image": "animationlogin",
-    "category": "frontend",
+    "image": "Animation-login-page",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "https://github.com/saicharan-bhuthkuri/Animation-login-page"
@@ -82,7 +82,7 @@
   {
     "name": "animated-flower",
     "desc": "CSS-only animated flower design.",
-    "image": "flower",
+    "image": "animated-flower",
     "category": "frontend",
     "links": {
       "view": "#",
@@ -92,7 +92,7 @@
   {
     "name": "Radial-Menu",
     "desc": "Glowing animated radial menu using HTML and CSS.",
-    "image": "radialmenu",
+    "image": "Radial-Menu",
     "category": "frontend",
     "links": {
       "view": "#",
@@ -102,7 +102,7 @@
   {
     "name": "friendshipday",
     "desc": "HTML page for celebrating friendship day.",
-    "image": "friendship",
+    "image": "friendshipday",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -117,6 +117,16 @@
     "links": {
       "view": "#",
       "code": "https://github.com/saicharan-bhuthkuri/impress"
+    }
+  },
+  {
+    "name": "to-do-list",
+    "desc": "JavaScript based web experiments and creative work.",
+    "image": "to-do-list",
+    "category": "javascript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/saicharan-bhuthkuri/To-Do-List"
     }
   }
 ]
