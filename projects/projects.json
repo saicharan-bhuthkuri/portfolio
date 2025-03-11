@@ -45,7 +45,7 @@
     "image": "login-page",
     "category": "frontend",
     "links": {
-      "view": "#",
+      "view": "https://sai-wishes.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/login-page"
     }
   },
