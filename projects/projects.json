@@ -5,7 +5,7 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://sai-charan-portfolio.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/portfolio"
     }
   },
@@ -15,7 +15,7 @@
     "image": "wishes",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://sai-wishes.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/Wishes"
     }
   },
@@ -25,7 +25,7 @@
     "image": "Glassmorphic_Registration_Form",
     "category": "frontend",
     "links": {
-      "view": "#",
+      "view": "https://glassmorphic-registration-form.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/Glassmorphic_Registration_Form"
     }
   },
@@ -65,7 +65,7 @@
     "image": "website-SaiElite",
     "category": "business",
     "links": {
-      "view": "#",
+      "view": "https://saielite.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/website-SaiElite"
     }
   },
@@ -75,7 +75,7 @@
     "image": "Animation-login-page",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://animated-flower.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/Animation-login-page"
     }
   },
@@ -125,7 +125,7 @@
     "image": "to-do-list",
     "category": "javascript",
     "links": {
-      "view": "#",
+      "view": "https://to-do-list-io.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/To-Do-List"
     }
   }
