@@ -45,7 +45,7 @@
     "image": "login-page",
     "category": "frontend",
     "links": {
-      "view": "https://sai-wishes.netlify.app/",
+      "view": "https://charan-login-page.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/login-page"
     }
   },
@@ -75,7 +75,7 @@
     "image": "Animation-login-page",
     "category": "basicweb",
     "links": {
-      "view": "https://animated-flower.netlify.app/",
+      "view": "https://animatation-login-page.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/Animation-login-page"
     }
   },
@@ -85,7 +85,7 @@
     "image": "animated-flower",
     "category": "frontend",
     "links": {
-      "view": "#",
+      "view": "https://animated-flower.netlify.app/",
       "code": "https://github.com/saicharan-bhuthkuri/animated-flower"
     }
   },
